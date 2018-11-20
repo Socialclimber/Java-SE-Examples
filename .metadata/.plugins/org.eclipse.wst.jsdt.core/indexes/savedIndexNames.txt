@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+/home/socialclimber/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1993042143.index
+2336932928.index
+2710363012.index

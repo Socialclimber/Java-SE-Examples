@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<form action="">
+			Enter first number: <input type = "text" name = "num1"><br>
+			Enter Second number: <input type = "text" name = "num2"><br>
+			<input type="submit">
+		</form>
+	</body>
+</html>
